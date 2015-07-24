@@ -17,6 +17,7 @@
 		9BD7D6821B52619200EDB4FE /* Tester.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7D6811B52619200EDB4FE /* Tester.swift */; };
 		9BDEAC941B62B786008F089A /* NewlyAdded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC931B62B786008F089A /* NewlyAdded.swift */; };
 		9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC951B62C61E008F089A /* SecondFile.swift */; };
+		9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC971B62C83A008F089A /* ThirdFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		9BD7D6811B52619200EDB4FE /* Tester.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tester.swift; sourceTree = "<group>"; };
 		9BDEAC931B62B786008F089A /* NewlyAdded.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewlyAdded.swift; sourceTree = "<group>"; };
 		9BDEAC951B62C61E008F089A /* SecondFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFile.swift; sourceTree = "<group>"; };
+		9BDEAC971B62C83A008F089A /* ThirdFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 		9BD7D6581B524B3200EDB4FE /* TesterApp */ = {
 			isa = PBXGroup;
 			children = (
+				9BDEAC971B62C83A008F089A /* ThirdFile.swift */,
 				9BDEAC951B62C61E008F089A /* SecondFile.swift */,
 				9BDEAC931B62B786008F089A /* NewlyAdded.swift */,
 				9BD7D65B1B524B3200EDB4FE /* AppDelegate.swift */,
@@ -225,6 +228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */,
 				9BD7D6611B524B3200EDB4FE /* ViewController.swift in Sources */,
 				9BDEAC941B62B786008F089A /* NewlyAdded.swift in Sources */,
 				9BD7D6821B52619200EDB4FE /* Tester.swift in Sources */,
