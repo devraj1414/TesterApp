@@ -18,6 +18,7 @@
 		9BDEAC941B62B786008F089A /* NewlyAdded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC931B62B786008F089A /* NewlyAdded.swift */; };
 		9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC951B62C61E008F089A /* SecondFile.swift */; };
 		9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC971B62C83A008F089A /* ThirdFile.swift */; };
+		9BDEAC9A1B62CC3B008F089A /* FourthFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC991B62CC3B008F089A /* FourthFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9BDEAC931B62B786008F089A /* NewlyAdded.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewlyAdded.swift; sourceTree = "<group>"; };
 		9BDEAC951B62C61E008F089A /* SecondFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFile.swift; sourceTree = "<group>"; };
 		9BDEAC971B62C83A008F089A /* ThirdFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdFile.swift; sourceTree = "<group>"; };
+		9BDEAC991B62CC3B008F089A /* FourthFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		9BD7D6581B524B3200EDB4FE /* TesterApp */ = {
 			isa = PBXGroup;
 			children = (
+				9BDEAC991B62CC3B008F089A /* FourthFile.swift */,
 				9BDEAC971B62C83A008F089A /* ThirdFile.swift */,
 				9BDEAC951B62C61E008F089A /* SecondFile.swift */,
 				9BDEAC931B62B786008F089A /* NewlyAdded.swift */,
@@ -231,6 +234,7 @@
 				9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */,
 				9BD7D6611B524B3200EDB4FE /* ViewController.swift in Sources */,
 				9BDEAC941B62B786008F089A /* NewlyAdded.swift in Sources */,
+				9BDEAC9A1B62CC3B008F089A /* FourthFile.swift in Sources */,
 				9BD7D6821B52619200EDB4FE /* Tester.swift in Sources */,
 				9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */,
 				9BD7D65F1B524B3200EDB4FE /* TesterApp.xcdatamodeld in Sources */,
