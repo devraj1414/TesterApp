@@ -19,6 +19,7 @@
 		9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC951B62C61E008F089A /* SecondFile.swift */; };
 		9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC971B62C83A008F089A /* ThirdFile.swift */; };
 		9BDEAC9A1B62CC3B008F089A /* FourthFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC991B62CC3B008F089A /* FourthFile.swift */; };
+		9BDEAC9C1B62D039008F089A /* MasterFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDEAC9B1B62D039008F089A /* MasterFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9BDEAC951B62C61E008F089A /* SecondFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondFile.swift; sourceTree = "<group>"; };
 		9BDEAC971B62C83A008F089A /* ThirdFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdFile.swift; sourceTree = "<group>"; };
 		9BDEAC991B62CC3B008F089A /* FourthFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FourthFile.swift; sourceTree = "<group>"; };
+		9BDEAC9B1B62D039008F089A /* MasterFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasterFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		9BD7D6581B524B3200EDB4FE /* TesterApp */ = {
 			isa = PBXGroup;
 			children = (
+				9BDEAC9B1B62D039008F089A /* MasterFile.swift */,
 				9BDEAC991B62CC3B008F089A /* FourthFile.swift */,
 				9BDEAC971B62C83A008F089A /* ThirdFile.swift */,
 				9BDEAC951B62C61E008F089A /* SecondFile.swift */,
@@ -237,6 +240,7 @@
 				9BDEAC9A1B62CC3B008F089A /* FourthFile.swift in Sources */,
 				9BD7D6821B52619200EDB4FE /* Tester.swift in Sources */,
 				9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */,
+				9BDEAC9C1B62D039008F089A /* MasterFile.swift in Sources */,
 				9BD7D65F1B524B3200EDB4FE /* TesterApp.xcdatamodeld in Sources */,
 				9BD7D65C1B524B3200EDB4FE /* AppDelegate.swift in Sources */,
 			);
