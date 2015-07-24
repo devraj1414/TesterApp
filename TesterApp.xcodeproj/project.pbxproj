@@ -84,6 +84,7 @@
 		9BD7D6581B524B3200EDB4FE /* TesterApp */ = {
 			isa = PBXGroup;
 			children = (
+				9BDEAC931B62B786008F089A /* NewlyAdded.swift */,
 				9BD7D65B1B524B3200EDB4FE /* AppDelegate.swift */,
 				9BD7D6601B524B3200EDB4FE /* ViewController.swift */,
 				9BD7D6621B524B3200EDB4FE /* Main.storyboard */,
@@ -91,7 +92,6 @@
 				9BD7D6671B524B3200EDB4FE /* LaunchScreen.xib */,
 				9BD7D65D1B524B3200EDB4FE /* TesterApp.xcdatamodeld */,
 				9BD7D6591B524B3200EDB4FE /* Supporting Files */,
-				9BDEAC931B62B786008F089A /* NewlyAdded.swift */,
 			);
 			path = TesterApp;
 			sourceTree = "<group>";
