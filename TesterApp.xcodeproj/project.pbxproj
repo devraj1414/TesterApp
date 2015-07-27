@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B6AF9AF1B6623F900FC9095 /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6AF9AE1B6623F900FC9095 /* TestFile.swift */; };
 		9BD7D65C1B524B3200EDB4FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7D65B1B524B3200EDB4FE /* AppDelegate.swift */; };
 		9BD7D65F1B524B3200EDB4FE /* TesterApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7D65D1B524B3200EDB4FE /* TesterApp.xcdatamodeld */; };
 		9BD7D6611B524B3200EDB4FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7D6601B524B3200EDB4FE /* ViewController.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9B6AF9AE1B6623F900FC9095 /* TestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 		9BD7D6561B524B3200EDB4FE /* TesterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TesterApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BD7D65A1B524B3200EDB4FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9BD7D65B1B524B3200EDB4FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 		9BD7D6581B524B3200EDB4FE /* TesterApp */ = {
 			isa = PBXGroup;
 			children = (
+				9B6AF9AE1B6623F900FC9095 /* TestFile.swift */,
 				9BDEAC9B1B62D039008F089A /* MasterFile.swift */,
 				9BDEAC991B62CC3B008F089A /* FourthFile.swift */,
 				9BDEAC971B62C83A008F089A /* ThirdFile.swift */,
@@ -237,6 +240,7 @@
 				9BDEAC981B62C83A008F089A /* ThirdFile.swift in Sources */,
 				9BD7D6611B524B3200EDB4FE /* ViewController.swift in Sources */,
 				9BDEAC941B62B786008F089A /* NewlyAdded.swift in Sources */,
+				9B6AF9AF1B6623F900FC9095 /* TestFile.swift in Sources */,
 				9BDEAC9A1B62CC3B008F089A /* FourthFile.swift in Sources */,
 				9BD7D6821B52619200EDB4FE /* Tester.swift in Sources */,
 				9BDEAC961B62C61E008F089A /* SecondFile.swift in Sources */,
