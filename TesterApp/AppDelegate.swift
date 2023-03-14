@@ -8,7 +8,10 @@
 
 import UIKit
 import CoreData
-//3rd Changes from Master
+
+//Its an App Delegate File
+//Secon Its an App Delegate File
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
