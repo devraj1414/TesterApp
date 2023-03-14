@@ -8,8 +8,10 @@
 
 import UIKit
 import CoreData
+
 //Its an App Delegate File
 //Secon Its an App Delegate File
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
